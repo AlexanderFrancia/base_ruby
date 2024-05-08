@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: PS
+  description: 1 buen estado
+  price: 10
+
+two:
+  title: Nintendo
+  description: switch
+  price: 250
